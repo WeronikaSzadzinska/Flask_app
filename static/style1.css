@@ -1,0 +1,23 @@
+h1 {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    background: grey;
+    padding: 20px;
+    border: 10px;
+    margin: 20px; 
+}
+img {
+
+    margin: 50px; 
+}
+p {
+    color: black;
+    font-size: 15px;
+    font-weight: italic;
+    background: grey;
+    padding: 20px;
+    border: 10px;
+    margin: 20px; 
+
+}
